@@ -1,0 +1,14 @@
+{
+  "tenantId": "<tenant-guid>",
+  "subscriptionId": "<subscription-guid>",
+  "resourceGroupName": "<resource-group-name>",
+  "clusterName": "<cluster-name>",
+  "region": "<azure-region>",
+  "apiVersion": "2024-02-15-preview",
+  "expectedCloudId": null,
+  "logDirectory": "C:\\Temp\\ClusterIdentityRepair",
+  "pollIntervalSeconds": 10,
+  "identityTimeoutSeconds": 300,
+  "propagationWaitSeconds": 60,
+  "syncWatchMinutes": 10
+}
